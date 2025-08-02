@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/2300031659/reactcicd",
+  "homepage": "https://2300031659.github.io/reactci/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
