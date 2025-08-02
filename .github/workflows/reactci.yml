@@ -3,7 +3,8 @@ name: React CI/CD
 on:
   push:
     branches: [main]
-
+  pull_requset:
+    branches: [main]  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
